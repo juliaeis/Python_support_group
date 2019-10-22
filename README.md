@@ -17,4 +17,4 @@ Thursdays 10.15 am at FVG-W2080
 
 #### 17th October 2019
 - jupyter-lab + Markdown (section, subsections, enumeration, normal text)
-- notebook 01: integers, floats, strings, lists, string manipulation
+- notebook 01: integers, floats, strings, lists, slicing, string manipulation
