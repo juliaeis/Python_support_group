@@ -22,3 +22,6 @@ Thursdays 10.15 am at FVG-W2080
 #### 24th October 2019
 - rest of notebook 01: types, converting between types, rounding
 - notebook 02: boleans, tupels, dictionaries
+
+#### 7th November 2019
+- notebook 03: Control Flow (if/else, for, while)
